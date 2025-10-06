@@ -1,0 +1,12 @@
+{
+  "best_model": "XGB",
+  "accuracy": 0.9838304990242542,
+  "macro_f1": 0.9848618049433506,
+  "best_params": {
+    "clf__colsample_bytree": 1.0,
+    "clf__learning_rate": 0.1,
+    "clf__max_depth": 4,
+    "clf__n_estimators": 200,
+    "clf__subsample": 0.8
+  }
+}

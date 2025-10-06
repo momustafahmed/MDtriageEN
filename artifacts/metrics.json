@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9127404516308893,
+  "macro_f1": 0.918204732332926,
+  "best_params": {
+    "clf__max_depth": 10,
+    "clf__max_features": "sqrt",
+    "clf__min_samples_leaf": 2,
+    "clf__min_samples_split": 2,
+    "clf__n_estimators": 300
+  }
+}

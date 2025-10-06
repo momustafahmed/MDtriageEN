@@ -1,0 +1,32 @@
+so_to_en:
+  khafiif: mild
+  dhexdhexaad: moderate
+  aad u daran: high
+  haa: 'yes'
+  maya: 'no'
+  qalalan: dry
+  qoyan: wet
+  caloosha sare: upper
+  caloosha hoose: lower
+  calool oo dhan: general
+  caruur: child
+  qof weyn: adult
+  waayeel: elderly
+en_to_so:
+  mild: fudud
+  moderate: dhexdhexaad
+  high: aad u daran
+  'yes': haa
+  'no': maya
+  dry: qalalan
+  wet: qoyan
+  upper: caloosha sare
+  lower: caloosha hoose
+  general: caloosha oo dhan
+  child: caruur
+  adult: qof weyn
+  elderly: waayeel
+triage_labels:
+  HomeCare: Xaalad fudud (Daryeel guri)
+  Outpatient: Xaalad dhax dhaxaad eh (Bukaan socod)
+  Emergency: Xaalad deg deg ah

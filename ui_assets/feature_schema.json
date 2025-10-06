@@ -1,0 +1,36 @@
+{
+  "cat_cols": [
+    "Age_Group",
+    "Fever_Level",
+    "Fever_Duration_Level",
+    "Chills",
+    "Cough_Type",
+    "Cough_Duration_Level",
+    "Blood_Cough",
+    "Breath_Difficulty",
+    "Headache_Severity",
+    "Headache_Duration_Level",
+    "Photophobia",
+    "Neck_Stiffness",
+    "Pain_Location",
+    "Pain_Duration_Level",
+    "Nausea",
+    "Diarrhea",
+    "Fatigue_Severity",
+    "Fatigue_Duration_Level",
+    "Weight_Loss",
+    "Fever_With_Fatigue",
+    "Vomiting_Severity",
+    "Vomiting_Duration_Level",
+    "Blood_Vomit",
+    "Unable_To_Keep_Fluids"
+  ],
+  "num_cols": [
+    "Has_Fever",
+    "Has_Cough",
+    "Has_Headache",
+    "Has_Abdominal_Pain",
+    "Has_Fatigue",
+    "Has_Vomiting"
+  ]
+}
